@@ -1,10 +1,3 @@
-# qb-stashes
-Create stashes throughout the city.
-
-Edit the config file to your liking. 
-
-job = {} -- if anyone can access it
-
-job = {"x", "y"} -- for job x and y to access
-
-name should be unique and not used anywhere else.
+weapon repairs in valentine 
+this script checks your weapons in inventory then judges on the cost depending on the damage (wear and tear).
+Then fixes for a price 
